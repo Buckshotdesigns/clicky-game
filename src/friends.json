@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://static.simpsonswiki.com/images/0/0b/Marge_Simpson.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/Lisa_Simpson.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/56/Mr_Burns.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/7/7d/Apu_Nahasapeemapetilon.png/revision/latest?cb=20171027210822",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Moe_Szyslak.png/220px-Moe_Szyslak.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Krustytheclown.png/220px-Krustytheclown.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/C-bob.png/220px-C-bob.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/a/a9/Abraham_Simpson.png/revision/latest?cb=20151011181838",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://vignette.wikia.nocookie.net/simpsons/images/6/68/Barney_Gumble_-_shading.png/revision/latest?cb=20180313200146",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/GroundskeeperWillie.png/220px-GroundskeeperWillie.png",
+      "clicked": false
+    }
+  ]
