@@ -3,7 +3,7 @@
 ![Screen Shot 2019-06-11 at 3 00 32 PM](https://user-images.githubusercontent.com/31428973/59299371-79ce0180-8c5a-11e9-9816-b08d3103525a.png)
 
 
-## Available Scripts
+<!-- ## Available Scripts
 
 In the project directory, you can run:
 
@@ -68,4 +68,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify -->
