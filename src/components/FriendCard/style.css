@@ -3,12 +3,10 @@
 .card {
     background: #fff;
     border-radius: 2px;
-    height: 325px;
-    
-   float: left;
+    height: 225px;
+    float: left;
     margin: 1rem;
-    
-    width: 325px;
+    width: 225px;
     box-shadow: 0 3px 6px #999, 0 3px 6px #999;
     /* text-align: left; */
   }

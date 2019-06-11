@@ -1,4 +1,5 @@
 
-.jumbotron h1 h3 {
-    text-align: cetner;
+.jumbotron {
+    text-align: center;
+    padding-top: 10rem;
 }

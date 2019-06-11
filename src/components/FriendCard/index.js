@@ -7,7 +7,7 @@ function FriendCard(props) {
       <div 
       className="card" 
       value={props.id} 
-      // onClick={() => props.handleClick(props.id)}
+      onClick={() => props.handleClick(props.id)}
     >
         <div className="img-container">
           <img src={props.image} />
