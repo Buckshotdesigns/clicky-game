@@ -39,11 +39,13 @@ class App extends Component {
       currentScore: newScore,
       rightWrong: "Good Job No Doubles"
     });
-    if (newScore >= this.state.topScore) {
-      this.setState({ topScore: newScore });
+    if (newScore === 12) {
+      this.setState({ rightWrong: "You win! Click Clicky Game to refresh" });
+      this.handleShuffle();
     }
-    else if (newScore === 12) {
-      this.setState({ rightWrong: "You win!" });
+    else if 
+      (newScore >= this.state.topScore) {
+        this.setState({ topScore: newScore });
     }
     this.handleShuffle();
   };
