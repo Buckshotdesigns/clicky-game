@@ -1,9 +1,22 @@
 ## Clicky-Game with the Simpsons
 
-![Screen Shot 2019-06-11 at 3 00 32 PM](https://user-images.githubusercontent.com/31428973/59299371-79ce0180-8c5a-11e9-9816-b08d3103525a.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/31428973/61895921-d1aa8a00-aee1-11e9-9b5d-05f6566295fb.gif">
+</p>
 
 
 This is a fun game that lets you click on each card without repeating clicks to see if you can select them all with no doubles.
 
-The application uses React.Js for its design and can be seen it its fullc form here: 
-## https://buckshotdesigns.github.io/clicky-game/
+### Functionality
+Start by clikcing on one of the character cards. After each click the cards shuffle and you can click again on a different character. The score of correct guesses is kept at the top of the screen. If you click the same card twice there is a warning at the top of the screen your score resets and the game starts over. If you select all without clicking the same card twice you win!!
+
+### Demo 
+you can play the full game here: https://buckshotdesigns.github.io/clicky-game/
+
+### Technologies used 
+-React Js
+- HTML
+- Bootstrap
+- Css3
+- Javascript
+
