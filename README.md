@@ -14,7 +14,7 @@ Start by clikcing on one of the character cards. After each click the cards shuf
 you can play the full game here: https://buckshotdesigns.github.io/clicky-game/
 
 ### Technologies used 
--React Js
+- React Js
 - HTML
 - Bootstrap
 - Css3
